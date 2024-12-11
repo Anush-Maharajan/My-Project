@@ -1,0 +1,1 @@
+print("A fool uttereth all his mind.")
